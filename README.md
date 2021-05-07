@@ -1,9 +1,6 @@
 ### Passive
 
-My name is Passive, I am currently developing a fully fledged CounterStrike: Global Offensive cheat called S(h)ook aka Sook.
-I'm learning as I go along on my journey and am currently taking on C++ for a change.
+My name is Passive, I am a code hobbyist that likes using programming to their advantage.
 
-
-## Me
-
-I live in your crib, and your crib only. Pull up and let dat ting spray brudda, no fools in my town.
+I am in no way a professional and you should not consult me first when asking a question, although
+we can still become the best of friends.
